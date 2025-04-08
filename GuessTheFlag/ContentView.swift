@@ -147,7 +147,7 @@ struct ContentView: View {
             if score < 4 {
                 content += " Work Hard!"
             } else if score < 7 {
-                content += " Good job!"
+                content += " Good Job!"
             } else {
                 content += " Excellent!"
             }
